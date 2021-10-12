@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Aditi Jain.
+🔭 I’m a web development enthusiat and currently learning MERN stack.
 
 <!--
 **AditiiJain/AditiiJain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
