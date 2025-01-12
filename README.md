@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aditi Jain.
-🔭 &nbsp; I’m a Software Engineer.
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-💬 &nbsp; Ask me about **Java,Javascript, Data structure and Algorithms.**
+- 🔭 &nbsp; I’m a Software Engineer.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💬 &nbsp; Ask me about **Java,Javascript, Data structure and Algorithms.**
 <!--
 **AditiiJain/AditiiJain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
